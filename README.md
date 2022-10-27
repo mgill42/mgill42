@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mahaveer
+- 👋 Hi, I’m Brandon
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning iOS Development
 - 💞️ I’m looking to collaborate on Developing iOS apps
