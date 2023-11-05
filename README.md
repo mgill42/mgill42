@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Mahaveer
-- 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning iOS Development
-- 💞️ I’m looking to collaborate on Developing iOS apps
 - 📫 How to reach me m.gill42@hotmail.com
 
 <!---
